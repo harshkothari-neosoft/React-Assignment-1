@@ -1,0 +1,145 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "pname": "Jacket",
+        "price": 1250,
+        "quantity": 1,
+        "images": "c1.PNG"
+      },
+      {
+        "id": 2,
+        "pname": "shoes",
+        "price": 1500,
+        "quantity": 1,
+        "images": "c2.PNG"
+      },
+      {
+        "id": 3,
+        "pname": "Bag",
+        "price": 3000,
+        "quantity": 1,
+        "images": "c3.PNG"
+      },
+      {
+        "id": 4,
+        "pname": "glovees",
+        "price": 850,
+        "quantity": 1,
+        "images": "c4.PNG"
+      },
+      {
+        "id": 5,
+        "pname": "lower",
+        "price": 870,
+        "quantity": 1,
+        "images": "c5.PNG"
+      },
+      {
+        "id": 6,
+        "pname": "cap",
+        "price": 250,
+        "quantity": 1,
+        "images": "c6.PNG"
+      },
+      {
+        "id": 7,
+        "pname": "shoes",
+        "price": 5200,
+        "quantity": 1,
+        "images": "c7.PNG"
+      },
+      {
+        "id": 8,
+        "pname": "side bag",
+        "price": 960,
+        "quantity": 1,
+        "images": "c8.PNG"
+      },
+      {
+        "id": 9,
+        "pname": "glasses",
+        "price": 740,
+        "quantity": 1,
+        "images": "c9.PNG"
+      },
+      {
+        "id": 10,
+        "pname": "Jacket",
+        "price": 3600,
+        "quantity": 4,
+        "images": "c10.PNG"
+      },
+      {
+        "id": 11,
+        "pname": "Sports watch",
+        "price": 3500,
+        "quantity": 1,
+        "images": "c11.jpeg"
+      },
+      {
+        "id": 12,
+        "pname": "Echo",
+        "price": 5000,
+        "quantity": 1,
+        "images": "c12.jpg"
+      },
+      {
+        "id": 13,
+        "pname": "Fire Stick",
+        "price": 3000,
+        "quantity": 1,
+        "images": "c13.jpg"
+      },
+      {
+        "id": 14,
+        "pname": "Smart Watch",
+        "price": 8500,
+        "quantity": 1,
+        "images": "c14.jpg"
+      },
+      {
+        "id": 15,
+        "pname": "Watch",
+        "price": 2000,
+        "quantity": 1,
+        "images": "c15.jpg"
+      },
+      {
+        "id": 16,
+        "pname": "cap",
+        "price": 750,
+        "quantity": 1,
+        "images": "c16.jpg"
+      },
+      {
+        "id": 17,
+        "pname": "Headphones",
+        "price": 1200,
+        "quantity": 1,
+        "images": "c17.jpg"
+      },
+      {
+        "id": 18,
+        "pname": "Controller",
+        "price": 960,
+        "quantity": 1,
+        "images": "c18.jpg"
+      },
+      {
+        "id": 19,
+        "pname": "Gaming keyboard",
+        "price": 1700,
+        "quantity": 1,
+        "images": "c19.jpg"
+      },
+      {
+        "id": 20,
+        "pname": "Mouse",
+        "price": 1300,
+        "quantity": 4,
+        "images": "c20.jpeg"
+      }
+    ]
+  }
+  

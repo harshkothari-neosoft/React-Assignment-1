@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import ApplicationForm from './component/ApplicationForm';
+import List from './component/List';
+import Product from './component/Product';
+import Productcart from './component/Productcart';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h4 className="text-center">Assignment 1</h4>
+      <List/>
+
+      <h4 className="text-center">Assignment 2</h4>
+      <ApplicationForm/>
+
+      <h4 className="text-center">Assignment 3</h4>
+      <Product/>
+
+      <h4 className="text-center">Assignment 4</h4>
+      <Productcart/>
+
     </div>
   );
 }
